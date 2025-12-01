@@ -1,12 +1,22 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
 
-<h3 align="center">Remote Sensing and GIS Analyst, PhD in Geomatics Engineering</h3>
+<h3 align="center"> GeoAI & Remote Sensing Specialist | PhD in Geomatics Engineering </h3>
 
 
+🌍 Working with Earth Observation, machine learning, and cloud-native geospatial analytics to support agriculture, environmental monitoring, and humanitarian recovery.
 
-I obtained my PhD degree in 2023 from the Geomatics Engineering Department at Istanbul Technical University. I was granted various scholarships during my PhD and published several scientific papers. I particularly focused on analyzing geospatial data to study environmental issues.
+## 🔭 What I work on
+- 🌾 **Agricultural monitoring** using Sentinel-1/2, multispectral + SAR   
+- 🤖 **Machine learning & deep learning for satellite imagery** (classification, segmentation, OBIA)  
+- 🔥 **Geospatial analytics for crisis assessment** (mine action, soil impact, production loss)
 
+## 🧠 Technical Skills
+**Remote Sensing & GIS:** QGIS, ArcGIS, SNAP, Google Earth Engine, eCognition  
+**ML / DL:** scikit-learn, LightGBM, XGBoost, PyTorch, segmentation models  
+**Python:** GeoPandas, Rasterio, rioxarray, numpy, pandas  
+**Methods:** classification, segmentation, change detection, OBIA, feature engineering
 
+---
 
 - 📫 How to reach me **senelgizem@outlook.com**
 
