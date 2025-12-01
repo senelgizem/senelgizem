@@ -3,7 +3,7 @@
 <h3 align="center"> GeoAI & Remote Sensing Specialist | PhD in Geomatics Engineering </h3>
 
 
-🌍 Working with Earth Observation, machine learning, and cloud-native geospatial analytics to support agriculture, environmental monitoring, and humanitarian recovery.
+🌍 Working with Earth Observation and machine learning to support agriculture, environmental monitoring, and humanitarian recovery.
 
 ## 🔭 What I work on
 - 🌾 **Agricultural monitoring** using Sentinel-1/2, multispectral + SAR   
