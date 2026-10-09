@@ -7,7 +7,7 @@ Deep learning for satellite imagery · Agriculture · Environment · Humanitaria
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senelgizem/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:senelgizem@outlook.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?user=V6rmm7kAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=V6rmm7kAAAAJ&view_op=list_works&sortby=pubdate))
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)]((https://scholar.google.com/citations?hl=en&user=V6rmm7kAAAAJ&view_op=list_works&sortby=pubdate))
 
 </div>
 
