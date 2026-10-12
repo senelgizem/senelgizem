@@ -3,7 +3,8 @@
 # Gizem Senel, PhD
 
 **Remote Sensing Scientist**
-Deep learning for satellite imagery · Agriculture · Environment · Humanitarian recovery
+
+Deep learning for satellite imagery · Agriculture · Environment · Agriculture recovery
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senelgizem/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:senelgizem@outlook.com)
